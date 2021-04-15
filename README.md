@@ -4,8 +4,6 @@
 ---
 ### Links
 
-[GithubPages Link]()
-
-[Vercel Link]()
+[Vercel Link](https://typemaster-pre-launch-landing-page-lime.vercel.app/)
 
 
